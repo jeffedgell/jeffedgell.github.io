@@ -1,3 +1,4 @@
 <h1>The Eyes are watching you!</h>
 
+
 <p>This delightful snippet of code is like a mischievous pair of eyes following your every move on the screen! Picture two cute cartoon eyes that playfully track your mouse cursor as it dances around. The code sets up a simple HTML structure with a pair of eyes (represented by divs) and pupils (the balls inside the eyes). As you move your mouse, the JavaScript kicks in. It calculates the cursor's position relative to the window size and adjusts the pupils' position accordingly. It's as if the eyes are watching your every move with curiosity and excitement! The pupils smoothly glide, imitating the gaze of an animated character, creating a whimsical and interactive experience. The magic happens thanks to the power of HTML, CSS, and a sprinkle of JavaScript. It's coding with a playful touch! </p>
